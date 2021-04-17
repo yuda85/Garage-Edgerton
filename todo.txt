@@ -1,0 +1,5 @@
+1. add alt and title attr to all img
+2. add robots.txt
+3. .htaccess
+4. add correct h tags
+5. remove comments
